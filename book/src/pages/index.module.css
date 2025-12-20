@@ -9,7 +9,7 @@
 
 /* Hero Section */
 .heroSection {
-  background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+  background: linear-gradient(135deg, #f8fafc, #0000FF);
   color: #1e293b;
   padding: 80px 20px;
   min-height: 80vh;
@@ -79,7 +79,7 @@
   transform: translateX(-50%);
   width: 70px;
   height: 60px;
-  background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+  background: linear-gradient(135deg, #3b82f6, white);
   border-radius: 50% 50% 40% 40%;
   z-index: 3;
   box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
@@ -240,7 +240,7 @@
 /* Features Section */
 .featuresSection {
   padding: 100px 20px;
-  background: white;
+  background: rgb(182, 232, 247);
 }
 
 .sectionTitle {
@@ -274,7 +274,7 @@
   padding: 30px;
   border-radius: 16px;
   text-align: center;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 25px rgba(43, 41, 41, 0.5);
   transition: all 0.3s ease;
   border: 1px solid #e2e8f0;
 }

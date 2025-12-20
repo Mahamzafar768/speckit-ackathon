@@ -9,8 +9,8 @@
 
 :root {
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary: #0000FF;
+  --ifm-color-primary-dark: #0000FF;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
   --ifm-color-primary-light: #29d5b0;
